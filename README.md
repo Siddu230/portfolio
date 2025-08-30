@@ -20,10 +20,8 @@ Check out the live site: [siddu230.github.io/portfolio](https://sanapalasportfol
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript (React, Vue, or Angular if applicable)
-- **Backend:** Node.js, Express (if applicable)
+- **Frontend:** HTML, CSS, JavaScript ,React, Vue.
 - **Deployment:** GitHub Pages / Vercel / Netlify
-- **Other:** [Add other libraries/tools you use, e.g., Tailwind, Bootstrap, Framer Motion]
 
 ---
 
